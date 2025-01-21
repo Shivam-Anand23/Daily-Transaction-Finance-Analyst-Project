@@ -18,13 +18,18 @@ Column Descriptors:
 
 ● Date: The date and time when the transaction was made   
 ● Mode: The payment mode used for the transaction
-● Category: Each record is divided into a set of categories of transactions
-● Subcategory: Categories are further broken down into Subcategories of transactions
-● Note: A brief description of the transaction made
-● Amount: The transactional amount
-● Income/Expense: The indicator of each transaction representing either expense or income
-● Currency: All transactions are recorded in official currency of India
 
+● Category: Each record is divided into a set of categories of transactions
+
+● Subcategory: Categories are further broken down into Subcategories of transactions
+
+● Note: A brief description of the transaction made
+
+● Amount: The transactional amount
+
+● Income/Expense: The indicator of each transaction representing either expense or income
+
+● Currency: All transactions are recorded in official currency of India
 
 
 Let's outline a financial analyst project that involves working with a dataset of
@@ -34,20 +39,35 @@ Matplotlib, and Seaborn.
 
 1. Project Overview
    Objective:
+   
    ● Analyze daily financial transactions to identify trends, patterns, and insights.
+   
    ● Generate a comprehensive report with visualizations.
-3. Dataset Description
+   
+2. Dataset Description
+
    ● Date: Date of the transaction.
+   
    ● Transaction_ID: Unique identifier for each transaction.
+   
    ● Account_ID: Unique identifier for the account.
+   
    ● Category: Category of the transaction (e.g., Sales, Purchase, Salary).
+   
    ● Amount: Amount of money involved in the transaction.
+   
    ● Type: Type of transaction (Credit or Debit).
-5. Steps to Complete the Project
+   
+3. Steps to Complete the Project
+ 
    Step 1: Import Libraries and Load Data
+   
    Step 2: Data Cleaning
+   
    Step 3: Exploratory Data Analysis (EDA)
+   
    Step 4: Time Series Analysis
+   
    Step 5: Correlation Analysis
    Step 6: Generate Report
    

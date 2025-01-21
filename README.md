@@ -1,8 +1,7 @@
 # Daily-Transaction-Finance-Analyst-Project
 
 Dataset : You can download it at your convenience.
-
-Click here to download data set
+Link: https://drive.google.com/file/d/1GaU7epateQdLdltGoc-xnbO9LI6OFDOU/view?usp=sharing
 
 About Dataset
 The "Daily Transactions" dataset contains information on dummy transactions made by

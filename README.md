@@ -3,7 +3,7 @@
 Dataset : You can download it at your convenience.
 Link: https://drive.google.com/file/d/1GaU7epateQdLdltGoc-xnbO9LI6OFDOU/view?usp=sharing
 
-About Dataset
+About Dataset: 
 The "Daily Transactions" dataset contains information on dummy transactions made by
 an individual on a daily basis. The dataset includes data on the products that were
 purchased, the amount spent on each product, the date and time of each transaction,
@@ -14,9 +14,9 @@ forecasting expenses, and optimizing savings and budgeting strategies. The datas
 well-suited for data analysis and machine learning applications,it can be used to train
 predictive models and make data-driven decisions.
 
-Column Descriptors
+Column Descriptors:
 
-● Date: The date and time when the transaction was made
+● Date: The date and time when the transaction was made   
 ● Mode: The payment mode used for the transaction
 ● Category: Each record is divided into a set of categories of transactions
 ● Subcategory: Categories are further broken down into Subcategories of
